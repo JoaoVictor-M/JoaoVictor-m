@@ -1,16 +1,13 @@
-### Hi there 👋
+### João Victor Melo 🎯
 
-<!--
-**JoaoVictor-M/JoaoVictor-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+Olá, me chamo João Victor e estou iniciando minha carreira em tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<strong> Atualmente estou estudando: </strong>
+* Python
+* Power BI
+* GIT
+
+<strong> Redes Sociais: </strong>
+* <a href = "https://www.linkedin.com/in/jo%C3%A3o-victor-melo/">LinkedIn</a>
