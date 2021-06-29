@@ -6,7 +6,7 @@ Olá, me chamo João Victor e estou iniciando minha carreira em tecnologia.
 
 <strong> Atualmente estou estudando: </strong>
 * Python
-* Power BI
+* Testes Automatizados
 * GIT
 
 <strong> Redes Sociais: </strong>
